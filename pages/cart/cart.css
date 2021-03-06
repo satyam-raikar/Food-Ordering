@@ -1,0 +1,32 @@
+
+.footer-cart{
+    height: 200px;
+    background-color:#FF7C17;
+}
+
+.menu-cart{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    font-size: large;
+
+}
+.left , .right{
+display: flex;
+flex-direction:column;
+margin: 50px;
+
+}
+
+
+.cash , .online{
+    background-color: #FFCC00;
+    padding: 10px;
+    width: 160px;
+   
+    border: none;
+    border-radius:18px;
+    margin: 5px;
+}

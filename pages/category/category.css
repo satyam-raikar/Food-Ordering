@@ -1,0 +1,18 @@
+.generate-category-listing {
+
+    background-color: grey;    
+   display: flex;
+    
+}
+
+.card{
+    margin: 10px;
+    background-color:green;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+
+}

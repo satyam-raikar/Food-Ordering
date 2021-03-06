@@ -1,0 +1,145 @@
+{
+
+    "item": [{
+        "name": "Pizza",
+        "price": "99",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Idli",
+        "price": "20 ",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"south"
+    },{
+        "name": "Dosa",
+        "price": "30",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"south"
+    },{
+        "name": "Tea",
+        "price": "10",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"hot-drinks"
+    },{
+        "name": "Coffee",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"hot-drinks"
+    },{
+        "name": "Sprite",
+        "price": "20",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"cold-drinks"
+    },{
+        "name": "Pepsi",
+        "price": "20",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"cold-drinks"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    },{
+        "name": "Samosa",
+        "price": "15",
+        "image": "https://artisanpizzakitchen.com/wp-content/uploads/2018/05/Artisan-Pizza-Favicon.png",
+
+        "category":"fast-food"
+    }]
+
+
+
+}

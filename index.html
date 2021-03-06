@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Ordering</title>
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <div class="mobile-screen">
+        <div class="header">
+            <!-- --------------- --------------- --------------- --------------- Header-->
+            <!-- <div class="back-btn" id="back-btn">
+                <img src="/assets/back.png" alt="" srcset="" height="0px" width="0px">
+            </div> -->
+            <div class="logo">
+                <span class="logo1">Food</span>
+                <span class="logo2">Order</span>
+
+            </div>
+
+            <div class="menu">
+                <p class="login-signup">Login / SignUp</p>
+                <img src="/assets/user.png" alt="" srcset="" class="menu-btn" id="menu-btn" height="30px" width="30px">
+            </div>
+
+
+
+        </div>
+
+
+        <!-- <div class="template">
+            <div class="listing-image">
+                <img src="/assets/template-burger.jpg" alt="" srcset="" width="200px" height="120px">
+            </div>
+            <div class="listing-below-section">
+                <div class="listing-name-details">
+                    <span class="item-name">
+                        Item Name
+                    </span>
+                    <span class="item-price">
+                        99$
+                    </span>
+
+                </div>
+                <div class="listing-add">
+                
+                    <img src="assets/add-btn.png" alt="" srcset="" height="28" width="28" class="add-item" id="id-add-item">    
+                    
+                </div>
+
+            </div>
+
+        </div> -->
+
+
+        <!-- OLD Template BKp
+
+        // <div class="generate-item-listing">
+            //         <div class="single-item">
+            //             <img src="${itemDetail.image}" alt="" srcset="" height="70" width="70">
+            //         <div class="item-info">
+            //             <span class="item-name"> ${itemDetail.name} </span>
+            //             <span class="item-price"> ${itemDetail.price}</span>
+            //         </div>
+            //         </div>
+            //      <div class="add-remove">
+            //         <img src="assets/add-btn.png" alt="" srcset="" height="32px" width="30px">
+            //     </div>
+            // </div>
+ -->
+
+
+        <div class="container">
+            <!-- --------------- --------------- --------------- --------------- Cointainer-->
+
+            <div class="left">
+                <div class="category-box">
+
+                    <button class="all selected">All</button>
+                    <button class="fast-food">Fast Food</button>
+                    <button class="south-indian">South Indian</button>
+                    <button class="chinese">Chinese</button>
+                    <button class="rolls">Rolls</button>
+                    <div class="search">
+                        <span>Search : </span>
+                        <input type="text" name="" id="search-box" class="search-box">
+                        <img src="/assets/search.png" alt="" srcset="" height="25px" width="25px">
+
+                    </div>
+
+                </div>
+                <div class="item-listing" id="item-listing">
+
+                </div>
+            </div>
+
+            <div class="cart" id="cart">
+
+                <div class="cart-head">
+                    <span class="my-cart">My Cart</span>
+                    <img src="/assets/cart.png" alt="" srcset="" height="32px" width="30px">
+
+                </div>
+                <div class="dash"></div>
+                <div class="cart-items">
+                    <div class="in-cart-item">
+                        <div class="in-cart-img">
+                            <img class="in-cart-imgg" src="/assets/template-burger.jpg" alt="" srcset="" height="50px"
+                                width="70px">
+                        </div>
+                        <div class="in-cart-info">
+                            <div class="in-cart-name-price">
+                                <span class="in-cart-item-name">
+                                    Burger
+                                </span>
+                                <span class="in-cart-item-price">
+                                    99$
+                                </span>
+                                <span class="in-cart-item-quantity">
+                                    QTY : 1
+                                </span>
+                            </div>
+                            <div class="in-cart-counter">
+                                <input type="number" name="" id="in-cart-item-quantity-counter"
+                                    class="in-cart-item-quantity-counter">
+                            </div>
+                            <div class="remove-btn">
+                                <img src="/assets/remove-btn.png" alt="" srcset="" height="32px" width="30px">
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="dash"></div>
+                <div class="cart-foot">
+
+                    <div class="billing">
+                        <span class="sub-total">Sub Total: 100 </span>
+                        <span class="charges">Charges : 11 </span>
+                        <span class="total">Total : 111 </span>
+
+                    </div>
+                    <div class="checkout">
+                        Checkout
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="footer">
+            <!-- --------------- --------------- --------------- --------------- Footer-->
+
+
+            <div class="links">
+                <a href="http://" class="splash">Splash</a>
+                <a href="/index.html" class="home">Home</a>
+                <a href="/pages/category/category.html" class="category">Category</a>
+                <a href="/pages/cart/cart.html">Cart</a>
+                <a href="/pages/login/login.html" class="login">Login</a>
+                <a href="/pages/checkout/checkout.html" class="login">Checkout</a>
+            </div>
+
+        </div>
+
+
+        <script src="app.js"></script>
+</body>
+
+</html>

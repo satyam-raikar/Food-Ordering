@@ -1,0 +1,38 @@
+.mobile-screen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(49, 49, 49, 0.432);
+}
+
+.container{
+    height: 200px;
+    width: 200px;
+
+    background-color:#FF7C17;
+    border-radius:20px;
+    display: flex;
+    flex-direction:column;
+    padding: 20px;
+    align-items:center;
+}
+
+.name , .table {
+    background-color: #FDFDFE;
+    padding: 10px;
+    width: 160px;
+    margin: 5px;
+    border: none;
+    border-radius:18px;
+    
+}
+
+.confirm-btn{
+    background-color: #FFCC00;
+    margin-top:30px;
+    padding: 10px;
+    width: 160px;
+    
+    border: none;
+    border-radius:18px;
+}

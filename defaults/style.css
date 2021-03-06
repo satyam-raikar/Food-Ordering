@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    display :flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+}
+.mobile-screen{
+    background-color: grey;
+    height: 667px;
+    width: 375px;
+
+    display: flex;
+    flex-direction:column;
+    justify-content:space-between
+}
+
+.header{
+    background-color: rebeccapurple;
+    height: 10%;
+}
+
+.container{
+
+}
+
+
+.footer{
+    height: 10%;
+    background-color:red;
+}
